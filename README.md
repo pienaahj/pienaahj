@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pienaahj 😍
-- 👀 I’m interested in software development, especially Go! 
+- 👀 I’m interested in software development, especially Go! ![Going...](https://github.com/pienaahj/rescourses/upload/main#:~:text=golang_gopher_src_logo_icon_168154%20(2).png? raw=true)
 - 🌱 I’m currently learning more advanced Go functionality. 😼
 
 - 📫 You can reach me on pienaahj@gmail.com
